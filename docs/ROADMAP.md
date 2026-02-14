@@ -10,7 +10,7 @@ Goals:
 - Document instruction-level timing assumptions.
 
 Deliverables:
-- `foundations/python-cpu-emulators/`
+- `foundations/python-cpu-emulators/` - Done
 - `foundations/instruction-cycle-sim/`
 - Lab report: cycle simulation vs expected AVR behavior.
 
