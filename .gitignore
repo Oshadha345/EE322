@@ -1,0 +1,28 @@
+# Build artifacts
+build/
+*.elf
+*.hex
+*.eep
+*.map
+*.lst
+*.o
+*.d
+
+# Logs and backups
+*.log
+fuse-backups/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# OS
+Thumbs.db
+.DS_Store
+
